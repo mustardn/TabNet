@@ -1,3 +1,3 @@
 # TabNet
 
-![](/CNN_diagram.png)
+![](/CNN_diagram.PNG)
